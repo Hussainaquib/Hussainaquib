@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saquib Hussain</h1>
-<h3 align="center">Passionate CSE (Data Science) Student | Aspiring Data Scientist | Competitive Programmer | Machine Learning Enthusiast | Embracing the Power of Data | 700+ Problem Solver | 350+ GitHub Contributions | 15+ Repository</h3>
+<h3 align="center">Aspiring Data Scientist || Bibliophile || Ex-Navodayan || Sketch Artist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
