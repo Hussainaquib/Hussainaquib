@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/saquibhuss16842" target="blank"><img src="https://img.shields.io/twitter/follow/saquibhuss16842?logo=twitter&style=for-the-badge" alt="saquibhuss16842" /></a> </p>
 
-- 🔭 I’m currently working on **Facial Analysis Based Attendence App**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **AI/ML and Data Science**
+- 🌱 I’m currently learning **Data Science and AI/ML**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Python , Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning and AI**
 
 - 📫 How to reach me **saquib9451@gmail.com**
 
