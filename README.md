@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saquib Hussain</h1>
-<h3 align="center">Aspiring Data Scientist || Bibliophile</h3>
+<h3 align="center">Associate Engineer R&D - AI | 2x Kaggle Expert | Bibliophile</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
