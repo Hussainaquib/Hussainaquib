@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science and AI/ML**
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@saquib9451)
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and AI**
 
